@@ -1,0 +1,31 @@
+# Free Hosting Sites For Deploy
+
+- [cloudflare](https://www.cloudflare.com/)
+- [netlify](https://www.netlify.com/)
+- [heroku](https://www.heroku.com/)
+- [vercel](https://vercel.com/)
+- [firebase](https://firebase.google.com/)
+- [github pages](https://pages.github.com/)
+- []()
+- []()
+
+### other sites for deploy
+
+- [render](https://render.com/)
+- [domainracer](https://www.domainracer.in/)
+- [tiiny.host](https://tiiny.host/)
+- [aws](https://aws.amazon.com/s3/)
+- [gitlab pages](https://docs.gitlab.com/ee/user/project/pages/)
+- [koyeb](https://www.koyeb.com/)
+- [layer0](https://www.layer0.co/)
+- [qovery](https://www.qovery.com/)
+- [stormkit](https://www.stormkit.io/)
+- [hostman](https://hostman.com/)
+- [glitch](https://glitch.com/)
+- [replit](https://replit.com/)
+- [surge](https://surge.sh/)
+- [begin](https://begin.com/)
+- [deta](https://www.deta.sh/)
+- [fly.io](https://fly.io/)
+- [fleek](https://fleek.co/)
+- []()

@@ -1,0 +1,17 @@
+# Open Source Contribution websites
+
+- [github explore](https://github.com/explore)
+- [contributor.ninja](https://contributor.ninja/)
+- [firstcontributions](https://firstcontributions.github.io/)
+- [opensourcefriday](https://opensourcefriday.com/)
+- [goodfirstissues](https://goodfirstissues.com/)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
